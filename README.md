@@ -1,2 +1,2 @@
 # Color_Recognition
-Reconocimiento de colores mediante algoritmos de machine
+Reconocimiento de colores mediante algoritmos de machine learning
